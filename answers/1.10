@@ -1,0 +1,3 @@
+docker exec -it container_tp /bin/bash
+cat /etc/*release
+exit
